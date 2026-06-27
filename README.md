@@ -29,4 +29,3 @@ The dashboard converts raw Airbnb data into easy-to-understand visualizations th
 - Revenue trends show changes in performance over time.
 - Location plays an important role in Airbnb pricing.
 
-## Project Files
